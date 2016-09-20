@@ -1,0 +1,36 @@
+div#cell {
+	position:absolute; width:64px; height:64px; background-color:#0f0
+}
+div#num2 {
+	position:absolute; width:64px; height:64px; background-color:#0ff; text-align:center
+}
+div#num4 {
+	position:absolute; width:64px; height:64px; background-color:#0df; text-align:center
+}
+div#num8 {
+	position:absolute; width:64px; height:64px; background-color:#0bf; text-align:center
+}
+div#num16 {
+	position:absolute; width:64px; height:64px; background-color:#09f; text-align:center
+}
+div#num32 {
+	position:absolute; width:64px; height:64px; background-color:#17f; text-align:center
+}
+div#num64 {
+	position:absolute; width:64px; height:64px; background-color:#35f; text-align:center
+}
+div#num128 {
+	position:absolute; width:64px; height:64px; background-color:#53f; text-align:center
+}
+div#num256 {
+	position:absolute; width:64px; height:64px; background-color:#71f; text-align:center
+}
+div#num512 {
+	position:absolute; width:64px; height:64px; background-color:#90f; text-align:center
+}
+div#num1024 {
+	position:absolute; width:64px; height:64px; background-color:#d0f; text-align:center
+}
+div#num2048 {
+	position:absolute; width:64px; height:64px; background-color:#f0f; text-align:center
+}
