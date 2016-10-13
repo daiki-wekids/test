@@ -1,3 +1,4 @@
+//追記テスト
 
 	const row = 4;	//マスの数 (定数)
 	const col = 4;
